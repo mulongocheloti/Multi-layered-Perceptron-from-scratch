@@ -12,3 +12,11 @@ MLPs accomplish this by combining several neurons organized in at least three la
 <br>
 <b>MLP Architecture</b><br>
 <img src="https://github.com/mulongocheloti/Multi-layered-Perceptron-from-scratch/blob/main/MLP%20Architecture.PNG"><br>
+
+Hence, given non linear datapoints MLP sorts to find the <b>best curve</b> that will separate/cluster the data points as shown below.<br>
+<br>
+<br>
+<img src="https://github.com/mulongocheloti/Multi-layered-Perceptron-from-scratch/blob/main/nonlinear_data.PNG">
+<br>
+<br>
+<img src="https://github.com/mulongocheloti/Multi-layered-Perceptron-from-scratch/blob/main/nonlinear_circular.PNG">
